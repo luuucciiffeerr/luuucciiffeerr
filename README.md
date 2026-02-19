@@ -32,14 +32,6 @@
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luuucciiffeerr&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luuucciiffeerr&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
 
 ### 🌱 Currently learning
 
@@ -52,7 +44,6 @@
 ### 📫 Reach me
 
 - Email: ali.abroudoust.pro@gmail.com
--   
 
 ---
 
