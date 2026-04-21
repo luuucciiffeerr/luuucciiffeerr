@@ -1,50 +1,72 @@
-<!-- Profile Header -->
-<h1 align="center">hey, I'm Ali (aka lucifer) 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>23 y/o ML & video AI dev • Fall detection, CV, and GPU enjoyer</b><br/>
-  Building end‑to‑end ML pipelines, from data to deployment.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Ali+%F0%9F%91%8B;ML+%2F+Computer+Vision+%2F+Systems;I+build+things+that+actually+run." alt="Typing SVG" />
+
+</div>
 
 ---
 
-### 🔭 What I'm working on
+I'm a computer engineering student who builds practical vision tools — from multi-camera capture systems to deep learning pipelines for action and gesture recognition. I care about things that work on real hardware, not just in notebooks.
 
-- 🧍‍♂️ **Folio_Finder_AI** – 3D‑CNN based fall detection on multi‑dataset Kaggle video corpus  
-- ⚙️ Improving training pipelines: mixed precision, RTX 3070 optimizations, better data splits  
-- 🧪 Playing with transformers / pose‑based models for action recognition
+Currently focused on **multi-device camera orchestration** and **video-based gesture recognition**.
 
 ---
 
-### 🧠 Tech stack
+## What I'm building
 
-- **Languages:** Python, Bash, a bit of C/C++  
-- **ML / DL:** PyTorch, scikit‑learn, OpenCV, NumPy, Pandas  
-- **Topics:** 3D CNNs, video classification, fall detection, computer vision  
-- **Tools:** Git, GitHub, Conda, VS Code, Jupyter / Colab
+**[DroidGrid](https://github.com/luuucciiffeerr/DroidGrid)** — Multi-phone DroidCam controller  
+Preview, record, and snapshot from up to 10 Android phones simultaneously. Self-healing streams, non-blocking I/O, inline session editor. Part of [Vision-Orchestration](https://github.com/Vision-Orchestration).
 
----
+**[Foot Recognition](https://github.com/luuucciiffeerr/Foot_recognition)** — Industrial foot gesture recognition  
+Vision pipeline for 8 foot gesture classes in production line environments. Multi-view custom dataset, EfficientNetV2-S + R(2+1)D comparison, structured for publication.
 
-### 📂 Featured projects
-
-- 🔹 [Folio_Finder_AI](https://github.com/luuucciiffeerr/Folio_Finder_AI) – end‑to‑end fall detection pipeline (data loader, 3D‑CNN, evaluation)
-- 🔹 *(Add another repo link here – even WIP, but describe what’s cool about it)*
+**[Folio Finder AI](https://github.com/luuucciiffeerr/Folio_Finder_AI)** — Fall detection from video  
+R(2+1)D-18 trained on a custom dataset (~7,000 clips). 98.71% F1 on a held-out test set. Full training pipeline with AMP, class weighting, and early stopping.
 
 ---
 
+## Tech
 
-### 🌱 Currently learning
-
-- Better video representation learning (3D CNNs vs transformers)
-- Evaluation & reporting for ML experiments (confusion matrices, ablations)
-- Infrastructure for training on consumer GPUs
-
----
-
-### 📫 Reach me
-
-- Email: ali.abroudoust.pro@gmail.com
+```python
+languages  = ["Python", "Bash", "C/C++ (Arduino)"]
+ml         = ["PyTorch", "OpenCV", "EfficientNet", "R(2+1)D", "ConvNeXt"]
+domains    = ["Video classification", "Gesture recognition", "Fall detection",
+              "Multi-camera systems", "Dataset pipeline"]
+tools      = ["Git", "CUDA", "ffmpeg", "SQLite", "tkinter"]
+hardware   = ["RTX 3070", "Ryzen 7 5800H", "32GB RAM"]
+```
 
 ---
 
-> “Build something that actually runs, then make it beautiful.”
+## Currently learning
+
+- Video representation learning and temporal modeling
+- Structured evaluation and ablation studies for CV papers
+- Edge deployment for vision models (ONNX, TensorRT)
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luuucciiffeerr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luuucciiffeerr&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Reach me
+
+[![Email](https://img.shields.io/badge/Email-ali.abroudoust.pro%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.abroudoust.pro@gmail.com)
+[![GitHub Org](https://img.shields.io/badge/Org-Vision--Orchestration-181717?style=flat-square&logo=github)](https://github.com/Vision-Orchestration)
+
+---
+
+<div align="center">
+
+> *Build something that actually runs, then make it better.*
+
+</div>
